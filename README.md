@@ -7,7 +7,7 @@
 <p>Trykk på "innlegg"</p>
 <li>Velg så "Legg til nytt"</li>
 ### Merskille
-<p>bruk kommandoen "<!--more-->" sånn at tekst og bilde ikke kommer opp to ganger i saken</p>
+<p>Bruk kommandoen !--more-- med < forran og > bak sånn at tekst og bilde ikke kommer opp to ganger i saken</p>
 ### Ingress
 ### Fremhevet bilde
 ### Fremhevet video
